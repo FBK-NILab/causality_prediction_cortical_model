@@ -1,4 +1,4 @@
-"""Run the experiment called Supervised[NN] in the paper
+"""Code of the experiment for the Supervised[NN] method.
 
 INPUT: .pickle files with the r2 score, mse score and granger index.
 

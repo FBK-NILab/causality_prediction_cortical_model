@@ -1,4 +1,4 @@
-"""Collection of functions used by the classification script.
+"""Collection of functions used by the classification scripts.
 """
 
 import numpy as np

@@ -1,4 +1,4 @@
-""" Main file for generating the MAR dataset
+""" Code to generate the MAR dataset.
 
     INPUT
     iterations: n. of trials per configuration;

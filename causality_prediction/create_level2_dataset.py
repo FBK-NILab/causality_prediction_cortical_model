@@ -1,5 +1,4 @@
-"""Collection of functions used for the mapping into the feature
-space.
+"""Additional functions to create the feature vectors.
 """
 
 import numpy as np

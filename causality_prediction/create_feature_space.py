@@ -1,4 +1,4 @@
-"""Compute the future vector of each given trial
+"""Compute feature vectors of multivariate timeseries.
 
 INPUT: .mat file containing the trials, expected to be in the folder
 /data/.
