@@ -96,7 +96,7 @@ if __name__=='__main__':
 
     print
     print "Doing classification."    
-    from create_MAR_dataset import class_to_configuration
+    from create_level2_dataset import class_to_configuration
     from sklearn.linear_model import LogisticRegression
     from itertools import izip
     from sklearn.lda import LDA
