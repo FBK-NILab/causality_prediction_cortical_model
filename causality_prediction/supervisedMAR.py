@@ -1,4 +1,4 @@
-"""Run the experiment called Supervised[MAR] in the paper.
+"""Code of the experiment for the Supervised[MAR] method.
 
 INPUT: .pickle files with the r2 score, mse score and granger index of
 both the MAR and NN datasets.
@@ -96,7 +96,7 @@ if __name__=='__main__':
 
     print
     print "Doing classification."    
-    from create_trainset import class_to_configuration
+    from create_MAR_dataset import class_to_configuration
     from sklearn.linear_model import LogisticRegression
     from itertools import izip
     from sklearn.lda import LDA
